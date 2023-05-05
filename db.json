@@ -1,9 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "tasks": [
+    {
+      "id": "642d6a49-0ca5-4937-a83a-d70d2e247577",
+      "text": "test",
+      "complete": false
+    },
+    {
+      "id": "8277be1f-4ffc-470a-83f7-a68e3a9596d5",
+      "text": "test2",
+      "complete": false
+    }
+  ]
 }
